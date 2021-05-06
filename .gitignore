@@ -31,3 +31,5 @@ build
 /gradlew
 /gradlew.bat
 /settings.gradle
+/.gitattributes
+/.project
