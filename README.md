@@ -2,3 +2,4 @@
 
 - Convertor converting different measures
 - km, m, kg, g, ton
+- IntegratedConvertor is the main method
